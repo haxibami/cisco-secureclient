@@ -5,3 +5,5 @@ src/
 cisco-secure-client-linux64-*-core-vpn-webdeploy-k9.sh
 cisco-secure-client-linux64-*-predeploy-k9.tar.gz
 cisco-secure-client-linux64-*-webdeploy-k9.pkg
+.SRCINFO
+installer.sh
