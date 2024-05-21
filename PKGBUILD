@@ -3,7 +3,7 @@
 # Maintainer: haxibami <contact at haxibami dot net>
 
 pkgname=cisco-secureclient
-pkgver=5.1.2.42
+pkgver=5.1.3.62
 pkgrel=1
 pkgdesc='Cisco AnyConnect Secure Mobility Client'
 url='https://www.cisco.com/c/en/us/products/security/anyconnect-secure-mobility-client/index.html'
@@ -28,7 +28,7 @@ source=(
   "AnyConnectLocalPolicy.xml"
 )
 
-sha256sums=('5728b7fbecf514225f78be13a8d0a79c054ecc8eea2596660dcdade070cdf077'
+sha256sums=('b98baaca1b22a5ab09d28af6ae8a6284f85ffb98f6268d443e6fd00aa890e8df'
             'd29746d526ae87d011a1b988531d72a1b0da018872f22b3dd8ebd2fc2082bda2'
             'f356c6bca23bb187e8e6c2d6504d9a0c30f7d45f6c78bef399e67a5d5079343d')
 
